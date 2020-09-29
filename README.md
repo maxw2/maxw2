@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![](https://github-readme-stats.vercel.app/api?username=maxw2)
-(https://maxw2.github.io/chrome_dino_js/)
+![](https://maxw2.github.io/chrome_dino_js/)
